@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.page{
+  width: 25%;
+  height: 300px;
+  border: 1px solid;
+  border-radius: 20px; 
+  margin-left: 500px;
+  margin-top: 150px;
+  display: flex;
+}
+.page .loginpage1{
+  width:100%;
+  height: 300px;
+  border: 1px solid;
+  border-radius: 20px; 
+  display: flex;
+  justify-content:space-evenly;
+  flex-direction: column;
+  padding-inline: 40px;
+  padding-block: 10px;
+
+
+}
+.page .loginpage1 input{
+  width: 100%;
+  height: 30px;
+  outline: none;
+  border:1px solid gray;
+  border-radius:5px;
+  padding-inline:5px;
+}
+.page .loginpage1 button{
+  width: 100%;
+  height:40px;
+  margin-block:10px;
+  border-radius:20px;
+  border: none;
+}
+
+
+.page .loginpage2{
+  width:100%;
+  height: 300px;
+  border: 1px solid;
+  border-radius: 20px; 
+  display: flex;
+  justify-content:space-evenly;
+  flex-direction: column;
+  padding-inline: 40px;
+  padding-block: 10px;
+
+
+}
+.page .loginpage2 input{
+  width: 100%;
+  height: 30px;
+  outline: none;
+  border:1px solid gray;
+  border-radius:5px;
+  padding-inline:5px;
+}
+.page .loginpage2 button{
+  width: 100%;
+  height:40px;
+  margin-block:10px;
+  border-radius:20px;
+  border: none;
+}
