@@ -29,18 +29,18 @@ function From() {
     }
 
   return (
-    <div>
-      <form onSubmit={hendalsubmit} >
+    <div className='main'>
+      <form onSubmit={hendalsubmit}  className='main-1'>
 
-        <label>name</label>
-        <input type="text" name='name'  value={data.name} onChange={hendalchange} />
+        <label className=''>Name :</label>
+        <input className='main-2' type="text" name='name'  value={data.name} onChange={hendalchange} />
         <br />
-        <label>age</label>
-        <input type="number" name='age'  value={data.age} onChange={hendalchange} />
+        <label>Age :</label>
+        <input className='main-22' type="number" name='age'  value={data.age} onChange={hendalchange} />
         <br />
-        <input type="submit"/>
+        <input className='main-3' type="submit"/>
        
-        <button onClick={reset}>reset</button>
+        <button onClick={reset} className='main-3'>Reset</button>
       </form>
     </div>
   )
