@@ -1,13 +1,20 @@
-import { useState } from 'react'
 import './App.css'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import Singup from './Firebase/Singup'
+import Login from './Firebase/Login'
+import Display from './Firebase/Display'
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
-    <>
-      
-    </>
+    <BrowserRouter>
+    <Routes>
+      <Route path='/' Component={Singup}></Route>
+      <Route path='/login' Component={Login}></Route>
+      <Route path='/display' Component={Display}></Route>
+    </Routes>
+    </BrowserRouter>
   )
 }
 
