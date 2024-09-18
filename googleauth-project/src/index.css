@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div-1{
+    /* background: rgb(21,25,36);
+    background: linear-gradient(320deg, rgba(21,25,36,1) 37%, rgba(69,15,41,1) 100%); */
+    background: rgb(21,25,37);
+background: linear-gradient(333deg, rgba(21,25,37,1) 35%, rgba(68,15,41,1) 89%);    
+}
+.manbtn-1{
+    background: rgb(22,210,237);
+    background: linear-gradient(308deg, rgba(22,210,237,1) 0%, rgba(254,5,95,1) 100%);
+}
+.color{ 
+    background-color: rgb(24,120,243);
+}
+.man-1{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
