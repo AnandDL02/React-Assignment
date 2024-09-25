@@ -1,0 +1,44 @@
+[
+  {
+    "name" : "loards",
+    "id": 1,
+    "roomType": "Deluxe Suite",
+    "price": 250,
+    "img": "https://cdn.pixabay.com/photo/2019/08/19/13/58/bed-4416515_1280.jpg"
+  },
+  {
+    "name" : "harmonym",
+    "id": 2,
+    "roomType": "Executive Suite",
+    "price": 350,
+    "img": "https://media.istockphoto.com/id/1007179966/photo/patterned-pouf-and-basket-in-bright-bedroom-interior-with-lamps-plants-and-poster-next-to-bed.jpg?s=1024x1024&w=is&k=20&c=2gUU2OJog6yZGTB9XSq9dAYScH8CALB-cREQS4RcMo8="
+  },
+  {
+    "name" : "taj",
+    "id": 3,
+    "roomType": "Standard Room",
+    "price": 150,
+    "img": "https://media.istockphoto.com/id/624102360/photo/modern-lamp-on-table-side-with-picture-frame-on-wall.jpg?s=1024x1024&w=is&k=20&c=M_mY_I6cLlSY1XRMIxodx6xaDj4-EQwBtRsIYb1gXBI="
+  },
+  {
+    "name" : "nova",
+    "id": 4,
+    "roomType": "Family Room",
+    "price": 200,
+    "img": "https://media.istockphoto.com/id/982988208/photo/grey-pillow-on-pink-and-white-sheets-of-bed-on-platform-in-bedroom-interior-with-poster-real.jpg?s=612x612&w=0&k=20&c=DR4qubSAkm-M5H76DR0JF8QxngLMFaH4Mtn0aP0Ata4="
+  },
+  {
+    "name" : "new tajhotel",
+    "id": 5,
+    "roomType": "Single Room",
+    "price": 100,
+    "img": "https://media.istockphoto.com/id/1141278036/photo/white-stylish-lamp-on-wooden-nightstand-next-to-flower-in-big-glass-vase-in-contemporary.jpg?s=1024x1024&w=is&k=20&c=Swumq5aNvk1XKUI9KuccRKT4gi0xooSlEf8LXBTrl9c="
+  },
+  {
+    "name" : "new tajhotel",
+    "id": 5,
+    "roomType": "Single Room",
+    "price": 100,
+    "img": "https://media.istockphoto.com/id/1141278036/photo/white-stylish-lamp-on-wooden-nightstand-next-to-flower-in-big-glass-vase-in-contemporary.jpg?s=1024x1024&w=is&k=20&c=Swumq5aNvk1XKUI9KuccRKT4gi0xooSlEf8LXBTrl9c="
+  }
+]
